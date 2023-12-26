@@ -1,0 +1,1616 @@
+Uri: https://coindox.xpressbuddy.com/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/bitcoin-mining/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\bitcoin-mining\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/blog/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\blog\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/blog/page/2/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\blog\page\2\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/blog/page/3/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\blog\page\3\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/category/blockchain/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\category\blockchain\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/category/blockchain/feed/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\category\blockchain\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://coindox.xpressbuddy.com/category/blockchain/page/2/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\category\blockchain\page\2\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/category/cryptocurrency/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\category\cryptocurrency\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/category/cryptocurrency/feed/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\category\cryptocurrency\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://coindox.xpressbuddy.com/category/cryptocurrency/page/2/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\category\cryptocurrency\page\2\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/category/ico/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\category\ico\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/category/ico/feed/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\category\ico\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://coindox.xpressbuddy.com/category/ico/page/2/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\category\ico\page\2\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/category/investments/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\category\investments\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/category/investments/feed/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\category\investments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://coindox.xpressbuddy.com/category/tokens/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\category\tokens\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/category/tokens/feed/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\category\tokens\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://coindox.xpressbuddy.com/category/tokens/page/2/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\category\tokens\page\2\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/category/tokens/page/3/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\category\tokens\page\3\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/category/trading/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\category\trading\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/category/trading/feed/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\category\trading\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://coindox.xpressbuddy.com/category/trading/page/2/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\category\trading\page\2\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/category/uncategorized/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\category\uncategorized\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/category/uncategorized/feed/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\category\uncategorized\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://coindox.xpressbuddy.com/category/uncategorized/page/2/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\category\uncategorized\page\2\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/comments/feed/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://coindox.xpressbuddy.com/contact/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\contact\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/crypto-frontier-awaits-join-our-ico-to-be-at-the-forefront-of-innovation-ideas-2/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\crypto-frontier-awaits-join-our-ico-to-be-at-the-forefront-of-innovation-ideas-2\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/crypto-frontier-awaits-join-our-ico-to-be-at-the-forefront-of-innovation-ideas-2/?replytocom=4
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\crypto-frontier-awaits-join-our-ico-to-be-at-the-forefront-of-innovation-ideas-2\index-1.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/crypto-frontier-awaits-join-our-ico-to-be-at-the-forefront-of-innovation-ideas-2/?replytocom=6
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\crypto-frontier-awaits-join-our-ico-to-be-at-the-forefront-of-innovation-ideas-2\index-3.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/crypto-frontier-awaits-join-our-ico-to-be-at-the-forefront-of-innovation-ideas-2/?replytocom=7
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\crypto-frontier-awaits-join-our-ico-to-be-at-the-forefront-of-innovation-ideas-2\index-2.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/crypto-frontier-awaits-join-our-ico-to-be-at-the-forefront-of-innovation-ideas-2/feed/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\crypto-frontier-awaits-join-our-ico-to-be-at-the-forefront-of-innovation-ideas-2\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://coindox.xpressbuddy.com/crypto-frontier-awaits-join-our-ico-to-be-at-the-forefront-of-innovation-ideas/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\crypto-frontier-awaits-join-our-ico-to-be-at-the-forefront-of-innovation-ideas\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/crypto-frontier-awaits-join-our-ico-to-be-at-the-forefront-of-innovation-ideas/feed/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\crypto-frontier-awaits-join-our-ico-to-be-at-the-forefront-of-innovation-ideas\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://coindox.xpressbuddy.com/diving-into-the-ico-abyss-decoding-the-world-of-crypto-fundraising/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\diving-into-the-ico-abyss-decoding-the-world-of-crypto-fundraising\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/diving-into-the-ico-abyss-decoding-the-world-of-crypto-fundraising/feed/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\diving-into-the-ico-abyss-decoding-the-world-of-crypto-fundraising\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://coindox.xpressbuddy.com/feed/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://coindox.xpressbuddy.com/from-whitepapers-to-wealth-demystifying-icos-in-the-cryptocurrency/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\from-whitepapers-to-wealth-demystifying-icos-in-the-cryptocurrency\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/from-whitepapers-to-wealth-demystifying-icos-in-the-cryptocurrency/feed/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\from-whitepapers-to-wealth-demystifying-icos-in-the-cryptocurrency\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://coindox.xpressbuddy.com/hello-world-2/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\hello-world-2\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/hello-world-2/?replytocom=2
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\hello-world-2\index-1.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/hello-world-2/feed/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\hello-world-2\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://coindox.xpressbuddy.com/ico-revolution-investing-in-blockchain-solutions-for-a-decentralized-world/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\ico-revolution-investing-in-blockchain-solutions-for-a-decentralized-world\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/ico-revolution-investing-in-blockchain-solutions-for-a-decentralized-world/feed/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\ico-revolution-investing-in-blockchain-solutions-for-a-decentralized-world\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://coindox.xpressbuddy.com/ico-revolution-investing-in-the-digital-age-through-cryptocurrency-copy/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\ico-revolution-investing-in-the-digital-age-through-cryptocurrency-copy\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/ico-revolution-investing-in-the-digital-age-through-cryptocurrency-copy/feed/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\ico-revolution-investing-in-the-digital-age-through-cryptocurrency-copy\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://coindox.xpressbuddy.com/ico-revolution-investing-in-the-digital-age-through-cryptocurrency/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\ico-revolution-investing-in-the-digital-age-through-cryptocurrency\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/ico-revolution-investing-in-the-digital-age-through-cryptocurrency/feed/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\ico-revolution-investing-in-the-digital-age-through-cryptocurrency\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://coindox.xpressbuddy.com/ico/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\ico\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/tag/blockchain/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\tag\blockchain\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/tag/blockchain/feed/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\tag\blockchain\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://coindox.xpressbuddy.com/tag/crypto-blockchain/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\tag\crypto-blockchain\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/tag/crypto-blockchain/feed/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\tag\crypto-blockchain\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://coindox.xpressbuddy.com/tag/cryptocurrency/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\tag\cryptocurrency\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/tag/cryptocurrency/feed/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\tag\cryptocurrency\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://coindox.xpressbuddy.com/tag/currency/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\tag\currency\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/tag/currency/feed/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\tag\currency\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://coindox.xpressbuddy.com/tag/ico-trading/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\tag\ico-trading\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/tag/ico-trading/feed/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\tag\ico-trading\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://coindox.xpressbuddy.com/tag/ico/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\tag\ico\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/tag/ico/feed/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\tag\ico\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://coindox.xpressbuddy.com/tag/invest/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\tag\invest\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/tag/invest/feed/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\tag\invest\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://coindox.xpressbuddy.com/tag/invest/page/2/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\tag\invest\page\2\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/tag/mining/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\tag\mining\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/tag/mining/feed/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\tag\mining\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://coindox.xpressbuddy.com/tag/tokens/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\tag\tokens\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/tag/tokens/feed/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\tag\tokens\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://coindox.xpressbuddy.com/tag/trading/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\tag\trading\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/tag/trading/feed/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\tag\trading\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://coindox.xpressbuddy.com/unveiling-the-next-frontier-exploring-the-promises-and-perils-of-the-ico/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\unveiling-the-next-frontier-exploring-the-promises-and-perils-of-the-ico\index.htm
+Content Type: text/html
+
+Uri: https://coindox.xpressbuddy.com/unveiling-the-next-frontier-exploring-the-promises-and-perils-of-the-ico/feed/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\unveiling-the-next-frontier-exploring-the-promises-and-perils-of-the-ico\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://coindox.xpressbuddy.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://coindox.xpressbuddy.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/x-javascript
+
+Uri: https://coindox.xpressbuddy.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/x-javascript
+
+Uri: https://coindox.xpressbuddy.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.16.4
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://coindox.xpressbuddy.com/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://coindox.xpressbuddy.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.16.4
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/x-javascript
+
+Uri: https://coindox.xpressbuddy.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.16.4
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/x-javascript
+
+Uri: https://coindox.xpressbuddy.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.16.4
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/x-javascript
+
+Uri: https://coindox.xpressbuddy.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.23.0
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://coindox.xpressbuddy.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.23.0
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://coindox.xpressbuddy.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.23.0
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://coindox.xpressbuddy.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.23.0
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://coindox.xpressbuddy.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.23.0
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://coindox.xpressbuddy.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.23.0
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: application/font-woff
+
+Uri: https://coindox.xpressbuddy.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/x-javascript
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/css/animate.css?ver=3.5.1
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/css/bootstrap.min.css?ver=5.0.
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/css/fontawesome.css?ver=5.13.0
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\css\fontawesome.css
+Content Type: text/css
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/css/inline-style.css?ver=1.0.0
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\css\inline-style.css
+Content Type: text/css
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/css/magnific-popup.css?ver=3.1.9
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/css/main.css?ver=1.0.0
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\css\main.css
+Content Type: text/css
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/css/metisMenu.css?ver=3.0.6
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\css\metisMenu.css
+Content Type: text/css
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/css/swiper.min.css?ver=6.6.1
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\fonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/fonts/fa-light-300.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\fonts\fa-light-300.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\fonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\fonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/img/btn-border-hover.svg
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\img\btn-border-hover.svg
+Content Type: image/svg+xml
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/img/btn-border-white.svg
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\img\btn-border-white.svg
+Content Type: image/svg+xml
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/img/btn-border.svg
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\img\btn-border.svg
+Content Type: image/svg+xml
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/img/faq_arrow_bg1.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\img\faq_arrow_bg1.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/img/faq_arrow_bg2.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\img\faq_arrow_bg2.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/img/form_bg.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\img\form_bg.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/img/hd_btn_bg-hover.svg
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\img\hd_btn_bg-hover.svg
+Content Type: image/svg+xml
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/img/hd_btn_bg.svg
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\img\hd_btn_bg.svg
+Content Type: image/svg+xml
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/img/lang_bg.svg
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\img\lang_bg.svg
+Content Type: image/svg+xml
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/img/sb_btn_bg-hover.svg
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\img\sb_btn_bg-hover.svg
+Content Type: image/svg+xml
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/img/sb_btn_bg.svg
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\img\sb_btn_bg.svg
+Content Type: image/svg+xml
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/img/select_arrow.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\img\select_arrow.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/img/t_data_bg.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\img\t_data_bg.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/js/appear.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\js\appear.js
+Content Type: application/x-javascript
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/js/bootstrap.bundle.min.js?ver=5.0.0
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\js\bootstrap.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/js/countdown.js?ver=2.2.0
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\js\countdown.js
+Content Type: application/x-javascript
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/js/easing.min.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\js\easing.min.js
+Content Type: application/x-javascript
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/js/jquery.magnific-popup.min.js?ver=1.1.0
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\js\jquery.magnific-popup.min.js
+Content Type: application/x-javascript
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/js/jquery.marquee.min.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\js\jquery.marquee.min.js
+Content Type: application/x-javascript
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/js/main.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\js\main.js
+Content Type: application/x-javascript
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/js/metisMenu.min.js?ver=3.0.6
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\js\metisMenu.min.js
+Content Type: application/x-javascript
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/js/parallax-scroll.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\js\parallax-scroll.js
+Content Type: application/x-javascript
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/js/scrollspy.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\js\scrollspy.js
+Content Type: application/x-javascript
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/js/swiper.min.js?ver=6.7.0
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\js\swiper.min.js
+Content Type: application/x-javascript
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/assets/js/wow.min.js?ver=1.1.3
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\assets\js\wow.min.js
+Content Type: application/x-javascript
+
+Uri: https://coindox.xpressbuddy.com/wp-content/themes/coindox/style.css?ver=1.0.0
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\themes\coindox\style.css
+Content Type: text/css
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/08/blog_01.jpg
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\08\blog_01.jpg
+Content Type: image/jpeg
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/08/blog_02.jpg
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\08\blog_02.jpg
+Content Type: image/jpeg
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/08/blog_03.jpg
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\08\blog_03.jpg
+Content Type: image/jpeg
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/08/blog_04.jpg
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\08\blog_04.jpg
+Content Type: image/jpeg
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/08/blog_05.jpg
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\08\blog_05.jpg
+Content Type: image/jpeg
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/08/blog_06.jpg
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\08\blog_06.jpg
+Content Type: image/jpeg
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/08/blog_07.jpg
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\08\blog_07.jpg
+Content Type: image/jpeg
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/08/blog_08.jpg
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\08\blog_08.jpg
+Content Type: image/jpeg
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/08/blog_m-1-300x276.jpg
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\08\blog_m-1-300x276.jpg
+Content Type: image/jpeg
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/08/blog_m-1.jpg
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\08\blog_m-1.jpg
+Content Type: image/jpeg
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/08/chn_flag.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\08\chn_flag.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/08/favicon.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\08\favicon.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/08/in_flag.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\08\in_flag.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/08/logo.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\08\logo.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/08/rsa_flag.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\08\rsa_flag.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/about_img-2.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\about_img-2.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/about_shape.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\about_shape.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/about_shape1.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\about_shape1.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/about_shape2.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\about_shape2.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/about_shape3.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\about_shape3.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/abt_01.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\abt_01.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/abt_02.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\abt_02.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/advantages_bg.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\advantages_bg.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/badge_active.svg
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\badge_active.svg
+Content Type: image/svg+xml
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/badge_deactive.svg
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\badge_deactive.svg
+Content Type: image/svg+xml
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/bitcoin_icon.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\bitcoin_icon.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/bi_01.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\bi_01.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/bi_02.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\bi_02.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/bi_03.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\bi_03.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/bi_04.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\bi_04.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/blockchain_hero_bg.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\blockchain_hero_bg.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/brand_01.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\brand_01.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/brand_02.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\brand_02.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/brand_03.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\brand_03.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/brand_04.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\brand_04.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/brand_05.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\brand_05.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/brand_06.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\brand_06.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/brand_07.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\brand_07.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/brand_08.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\brand_08.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/brand_09.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\brand_09.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/brand_10.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\brand_10.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/brand_11.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\brand_11.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/brand_12.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\brand_12.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/brand_bg.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\brand_bg.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/br_01.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\br_01.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/br_02.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\br_02.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/br_03.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\br_03.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/br_04.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\br_04.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/br_05.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\br_05.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/b_shape1.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\b_shape1.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/b_shape2.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\b_shape2.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/b_shape3.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\b_shape3.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/b_shape4.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\b_shape4.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/b_shape5.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\b_shape5.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/coin1.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\coin1.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/coin2.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\coin2.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/coin3.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\coin3.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/coin4.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\coin4.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/coin5.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\coin5.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/coin6.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\coin6.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/cta_bg1.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\cta_bg1.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/cta_bg2.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\cta_bg2.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/c_shape1.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\c_shape1.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/c_shape2.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\c_shape2.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/faq_bg.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\faq_bg.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/footer_bg.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\footer_bg.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/footer_bg2.jpg
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\footer_bg2.jpg
+Content Type: image/jpeg
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/f_icon1.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\f_icon1.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/f_icon2.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\f_icon2.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/f_shape.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\f_shape.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/f_shape1.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\f_shape1.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/f_shape2.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\f_shape2.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/f_shape3.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\f_shape3.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/hero_bg.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\hero_bg.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/hero_img.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\hero_img.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/h_shape.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\h_shape.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/h_shape2.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\h_shape2.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/h_shape3.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\h_shape3.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/img_01-1.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\img_01-1.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/img_01.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\img_01.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/img_02-1.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\img_02-1.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/img_02.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\img_02.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/img_03-1.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\img_03-1.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/img_03.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\img_03.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/img_04-1.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\img_04-1.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/img_04.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\img_04.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/img_05.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\img_05.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/img_06.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\img_06.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/img_07.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\img_07.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/img_08.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\img_08.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/logo-2.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\logo-2.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/logo-3.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\logo-3.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/prd_01.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\prd_01.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/prd_02.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\prd_02.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/rmm_shape.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\rmm_shape.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/rm_bg1.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\rm_bg1.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/rm_bg2.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\rm_bg2.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/rm_icon.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\rm_icon.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/rm_shape.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\rm_shape.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/sc_icon.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\sc_icon.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/s_circle_1.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\s_circle_1.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/s_circle_2.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\s_circle_2.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/s_circle_3.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\s_circle_3.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/s_circle_4.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\s_circle_4.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/s_shape1.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\s_shape1.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/s_shape2.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\s_shape2.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/table_bg.svg
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\table_bg.svg
+Content Type: image/svg+xml
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/td_bg.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\td_bg.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/team_01.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\team_01.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/team_02.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\team_02.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/team_03.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\team_03.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/team_04.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\team_04.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/team_bg1.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\team_bg1.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/team_sec_bg.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\team_sec_bg.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/ti_shape.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\ti_shape.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/ti_shape2.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\ti_shape2.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/token-distribution.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\token-distribution.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/token_chart.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\token_chart.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/token_chart2.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\token_chart2.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/t_info_img.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\t_info_img.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/t_shape1.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\t_shape1.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/t_shape2-1.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\t_shape2-1.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/ui_bg1-1.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\ui_bg1-1.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/uo_bg.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\uo_bg.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/up_01.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\up_01.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/up_02.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\up_02.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/09/us_flag.png
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\09\us_flag.png
+Content Type: image/png
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/elementor/css/global.css?ver=1695411042
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\elementor\css\global.css
+Content Type: text/css
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/elementor/css/post-172.css?ver=1696922272
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\elementor\css\post-172.css
+Content Type: text/css
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/elementor/css/post-328.css?ver=1695411055
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\elementor\css\post-328.css
+Content Type: text/css
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/elementor/css/post-7.css?ver=1695411042
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\elementor\css\post-7.css
+Content Type: text/css
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/elementor/css/post-77.css?ver=1696922165
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\elementor\css\post-77.css
+Content Type: text/css
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/elementor/css/post-79.css?ver=1696922565
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\elementor\css\post-79.css
+Content Type: text/css
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/elementor/css/post-81.css?ver=1696922980
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\elementor\css\post-81.css
+Content Type: text/css
+
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/elementor/css/post-97.css?ver=1695411258
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\elementor\css\post-97.css
+Content Type: text/css
+
+Uri: https://coindox.xpressbuddy.com/wp-includes/css/dist/block-library/style.min.css?ver=6.3.2
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://coindox.xpressbuddy.com/wp-includes/js/comment-reply.min.js?ver=6.3.2
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-includes\js\comment-reply.min.js
+Content Type: application/x-javascript
+
+Uri: https://coindox.xpressbuddy.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://coindox.xpressbuddy.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.0
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://coindox.xpressbuddy.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/x-javascript
+
+Uri: https://coindox.xpressbuddy.com/wp-json/
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcoindox.xpressbuddy.com%2F
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcoindox.xpressbuddy.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://coindox.xpressbuddy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcoindox.xpressbuddy.com%2Fbitcoin-mining%2F
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcoindox.xpressbuddy.com%2Fbitcoin-mining%2F&format=xml
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://coindox.xpressbuddy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcoindox.xpressbuddy.com%2Fcontact%2F
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcoindox.xpressbuddy.com%2Fcontact%2F&format=xml
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://coindox.xpressbuddy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcoindox.xpressbuddy.com%2Fcrypto-frontier-awaits-join-our-ico-to-be-at-the-forefront-of-innovation-ideas%2F
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcoindox.xpressbuddy.com%2Fcrypto-frontier-awaits-join-our-ico-to-be-at-the-forefront-of-innovation-ideas%2F&format=xml
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://coindox.xpressbuddy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcoindox.xpressbuddy.com%2Fcrypto-frontier-awaits-join-our-ico-to-be-at-the-forefront-of-innovation-ideas-2%2F
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcoindox.xpressbuddy.com%2Fcrypto-frontier-awaits-join-our-ico-to-be-at-the-forefront-of-innovation-ideas-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://coindox.xpressbuddy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcoindox.xpressbuddy.com%2Fdiving-into-the-ico-abyss-decoding-the-world-of-crypto-fundraising%2F
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcoindox.xpressbuddy.com%2Fdiving-into-the-ico-abyss-decoding-the-world-of-crypto-fundraising%2F&format=xml
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://coindox.xpressbuddy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcoindox.xpressbuddy.com%2Ffrom-whitepapers-to-wealth-demystifying-icos-in-the-cryptocurrency%2F
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcoindox.xpressbuddy.com%2Ffrom-whitepapers-to-wealth-demystifying-icos-in-the-cryptocurrency%2F&format=xml
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://coindox.xpressbuddy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcoindox.xpressbuddy.com%2Fhello-world-2%2F
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcoindox.xpressbuddy.com%2Fhello-world-2%2F&format=xml
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://coindox.xpressbuddy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcoindox.xpressbuddy.com%2Fico%2F
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcoindox.xpressbuddy.com%2Fico%2F&format=xml
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://coindox.xpressbuddy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcoindox.xpressbuddy.com%2Fico-revolution-investing-in-blockchain-solutions-for-a-decentralized-world%2F
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcoindox.xpressbuddy.com%2Fico-revolution-investing-in-blockchain-solutions-for-a-decentralized-world%2F&format=xml
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://coindox.xpressbuddy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcoindox.xpressbuddy.com%2Fico-revolution-investing-in-the-digital-age-through-cryptocurrency%2F
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcoindox.xpressbuddy.com%2Fico-revolution-investing-in-the-digital-age-through-cryptocurrency%2F&format=xml
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://coindox.xpressbuddy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcoindox.xpressbuddy.com%2Fico-revolution-investing-in-the-digital-age-through-cryptocurrency-copy%2F
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcoindox.xpressbuddy.com%2Fico-revolution-investing-in-the-digital-age-through-cryptocurrency-copy%2F&format=xml
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://coindox.xpressbuddy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcoindox.xpressbuddy.com%2Funveiling-the-next-frontier-exploring-the-promises-and-perils-of-the-ico%2F
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fcoindox.xpressbuddy.com%2Funveiling-the-next-frontier-exploring-the-promises-and-perils-of-the-ico%2F&format=xml
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://coindox.xpressbuddy.com/wp-json/wp/v2/categories/2
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\wp\v2\categories\2
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/wp/v2/categories/3
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\wp\v2\categories\3
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/wp/v2/categories/4
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\wp\v2\categories\4
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/wp/v2/categories/5
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\wp\v2\categories\5
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/wp/v2/categories/6
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\wp\v2\categories\6
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/wp/v2/categories/7
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\wp\v2\categories\7
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/wp/v2/categories/8
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\wp\v2\categories\8
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/wp/v2/pages/77
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\wp\v2\pages\77
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/wp/v2/pages/79
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\wp\v2\pages\79
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/wp/v2/pages/81
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\wp\v2\pages\81
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/wp/v2/pages/97
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\wp\v2\pages\97
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/wp/v2/posts/402
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\wp\v2\posts\402
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/wp/v2/posts/403
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\wp\v2\posts\403
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/wp/v2/posts/52
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\wp\v2\posts\52
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/wp/v2/posts/54
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\wp\v2\posts\54
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/wp/v2/posts/58
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\wp\v2\posts\58
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/wp/v2/posts/61
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\wp\v2\posts\61
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/wp/v2/posts/63
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\wp\v2\posts\63
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/wp/v2/posts/65
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\wp\v2\posts\65
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/wp/v2/posts/67
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\wp\v2\posts\67
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/wp/v2/tags/10
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\wp\v2\tags\10
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/wp/v2/tags/11
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\wp\v2\tags\11
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/wp/v2/tags/12
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\wp\v2\tags\12
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/wp/v2/tags/13
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\wp\v2\tags\13
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/wp/v2/tags/14
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\wp\v2\tags\14
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/wp/v2/tags/15
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\wp\v2\tags\15
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/wp/v2/tags/16
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\wp\v2\tags\16
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/wp/v2/tags/17
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\wp\v2\tags\17
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/wp/v2/tags/18
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\wp\v2\tags\18
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/wp-json/wp/v2/tags/9
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-json\wp\v2\tags\9
+Content Type: application/json
+
+Uri: https://coindox.xpressbuddy.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Outfit:400%2C500%2C600%2C700|Plus+Jakarta+Sans:300%2C400%2C500%2C600%2C700%2C800%2C900|Titillium+Web:400%2C600%2C700&subset=latin%2Clatin-ext
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Outfit:400,500|Plus Jakarta Sans:700,500&display=swap
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Outfit:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.3.2
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\css-4
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Plus+Jakarta+Sans:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Outfit:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.3.2
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Titillium+Web:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Outfit:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.3.2
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.3.2
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\css-5
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4bC1O4a0Fg.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4bC1O4a0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4bCyO4a0Fg.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4bCyO4a0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4deyO4a0Fg.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4deyO4a0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4deyO4i0Fg.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4deyO4i0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4e6yO4a0Fg.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4e6yO4a0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4e6yO4i0Fg.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4e6yO4i0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4QK1O4a0Fg.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4QK1O4a0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4QK1O4i0Fg.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4QK1O4i0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC0O4a0Fg.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC0O4a0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1O4a0Fg.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1O4a0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1O4i0Fg.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1O4i0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4W61O4a0Fg.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4W61O4a0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4ZmyO4a0Fg.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4ZmyO4a0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_9079Qx_Q.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_9079Qx_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_9079TR_Q.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_9079TR_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0n9Qx_Q.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0n9Qx_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0n9TR_Q.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_d0n9TR_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KU79TR_Q.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KU79TR_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KUn9Qx_Q.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KUn9Qx_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KUn9TR_Q.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_KUn9TR_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_m079Qx_Q.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_m079Qx_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_m079TR_Q.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_m079TR_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_qU79Qx_Q.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_qU79Qx_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_qU79TR_Q.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_qU79TR_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_Tkn9Qx_Q.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_Tkn9Qx_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_Tkn9TR_Q.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\plusjakartasans\v8\LDIbaomQNQcsA88c7O9yZ4KMCoOg4IA6-91aHEjcWuA_Tkn9TR_Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0lCS_XOKk.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\plusjakartasans\v8\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0lCS_XOKk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0XCS_XOKk.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\plusjakartasans\v8\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ0XCS_XOKk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ17CS_XOKk.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\plusjakartasans\v8\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ17CS_XOKk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lCS_XOKk.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\plusjakartasans\v8\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lCS_XOKk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lDi_XOKk.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\plusjakartasans\v8\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ2lDi_XOKk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ37Di_XOKk.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\plusjakartasans\v8\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ37Di_XOKk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/plusjakartasans/v8/LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ3CDi_XOKk.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\plusjakartasans\v8\LDIZaomQNQcsA88c7O9yZ4KMCoOg4KozySKCdSNG9OcqYQ3CDi_XOKk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\roboto\v30\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v34/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\robotoslab\v34\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPAcZTIAOhVxoMyOr9n_E7fdMbWD6xT.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\titilliumweb\v17\NaPAcZTIAOhVxoMyOr9n_E7fdMbWD6xT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPDcZTIAOhVxoMyOr9n_E7ffAzHGItzZg.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\titilliumweb\v17\NaPDcZTIAOhVxoMyOr9n_E7ffAzHGItzZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPDcZTIAOhVxoMyOr9n_E7ffBzCGItzZg.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\titilliumweb\v17\NaPDcZTIAOhVxoMyOr9n_E7ffBzCGItzZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPDcZTIAOhVxoMyOr9n_E7ffBzCGIVzZg.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\titilliumweb\v17\NaPDcZTIAOhVxoMyOr9n_E7ffBzCGIVzZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPDcZTIAOhVxoMyOr9n_E7ffEDBGItzZg.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\titilliumweb\v17\NaPDcZTIAOhVxoMyOr9n_E7ffEDBGItzZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPDcZTIAOhVxoMyOr9n_E7ffGjEGItzZg.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\titilliumweb\v17\NaPDcZTIAOhVxoMyOr9n_E7ffGjEGItzZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPDcZTIAOhVxoMyOr9n_E7ffHjDGItzZg.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\titilliumweb\v17\NaPDcZTIAOhVxoMyOr9n_E7ffHjDGItzZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPDcZTIAOhVxoMyOr9n_E7ffHjDGIVzZg.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\titilliumweb\v17\NaPDcZTIAOhVxoMyOr9n_E7ffHjDGIVzZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPecZTIAOhVxoMyOr9n_E7fdM3mCA.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\titilliumweb\v17\NaPecZTIAOhVxoMyOr9n_E7fdM3mCA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPecZTIAOhVxoMyOr9n_E7fdMPmCA.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\titilliumweb\v17\NaPecZTIAOhVxoMyOr9n_E7fdMPmCA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPFcZTIAOhVxoMyOr9n_E7fdMbe0IhDYZyZ.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\titilliumweb\v17\NaPFcZTIAOhVxoMyOr9n_E7fdMbe0IhDYZyZ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPFcZTIAOhVxoMyOr9n_E7fdMbepI5DYZyZ.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\titilliumweb\v17\NaPFcZTIAOhVxoMyOr9n_E7fdMbepI5DYZyZ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlDYZyZ.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\titilliumweb\v17\NaPFcZTIAOhVxoMyOr9n_E7fdMbetIlDYZyZ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titilliumweb/v17/NaPFcZTIAOhVxoMyOr9n_E7fdMbewI1DYZyZ.ttf
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\s\titilliumweb\v17\NaPFcZTIAOhVxoMyOr9n_E7fdMbewI1DYZyZ.ttf
+Content Type: font/ttf
+
+Uri: https://secure.gravatar.com/avatar/24f2e6ea8fe805c978a83c77414eba3c?s=100&d=mm&r=g
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\avatar\24f2e6ea8fe805c978a83c77414eba3c.png
+Content Type: image/jpeg
+
+Uri: https://secure.gravatar.com/avatar/24f2e6ea8fe805c978a83c77414eba3c?s=200&d=mm&r=g
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\avatar\24f2e6ea8fe805c978a83c77414eba3c-1.png
+Content Type: image/jpeg
+
+Uri: https://secure.gravatar.com/avatar/d7a973c7dab26985da5f961be7b74480?s=100&d=mm&r=g
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\avatar\d7a973c7dab26985da5f961be7b74480.png
+Content Type: image/png
+
+Uri: https://secure.gravatar.com/avatar/d7a973c7dab26985da5f961be7b74480?s=200&d=mm&r=g
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\avatar\d7a973c7dab26985da5f961be7b74480-1.png
+Content Type: image/png
+
+Uri: https://secure.gravatar.com/avatar/d9c24735a1525c631c3f0671bc8b22a1?s=100&d=mm&r=g
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\avatar\d9c24735a1525c631c3f0671bc8b22a1.jpeg
+Content Type: image/jpeg
+
+Uri: https://secure.gravatar.com/avatar/d9c24735a1525c631c3f0671bc8b22a1?s=200&d=mm&r=g
+File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\avatar\d9c24735a1525c631c3f0671bc8b22a1-1.jpeg
+Content Type: image/jpeg
+
