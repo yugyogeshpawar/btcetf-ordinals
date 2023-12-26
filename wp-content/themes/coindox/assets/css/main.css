@@ -3049,7 +3049,7 @@ h6 {
 .token__tab .nav-item .nav-link::before,
 .footer__copyright,
 blockquote .icon {
-  background: linear-gradient(270deg, #5E2FF4 0%, #8CA7FF 17.47%, #E4DAFF 39.54%, #C570FB 60.49%, #C3B1FE 84.44%, #5E2FF4 100%); }
+  background: #ff9700 }
 
 .blockchain-header__account i,
 .blockchain-header__language .dropdown-menu .dropdown-item::before,
