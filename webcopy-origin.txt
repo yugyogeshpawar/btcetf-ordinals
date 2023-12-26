@@ -546,7 +546,7 @@ Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/08/chn_flag.png
 File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\08\chn_flag.png
 Content Type: image/png
 
-Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/08/favicon.png
+Uri: https://coindox.xpressbuddy.com/wp-content/uploads/2023/08/
 File Name: C:\Downloaded Web Sites\coindox.xpressbuddy.com\wp-content\uploads\2023\08\favicon.png
 Content Type: image/png
 
